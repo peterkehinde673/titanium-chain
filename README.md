@@ -44,3 +44,5 @@ Titanium aims to support developers, creators, and innovators by providing a sta
 
 ## 📌 Note
 This project is currently in development and part of a test environment.
+
+Initial Titanium project setup with documentation and branding
